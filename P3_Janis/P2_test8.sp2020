@@ -1,6 +1,0 @@
-declare x := 7 ;
-{
-in x ;
-loop [ x < 0 ] 
-  out x ; ;
-}
