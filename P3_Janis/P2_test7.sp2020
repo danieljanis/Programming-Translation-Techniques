@@ -1,0 +1,4 @@
+declare xy := 5;
+{
+	declare xy := 4;
+}

@@ -1,0 +1,11 @@
+declare x := 5 ;
+{
+	declare y := 1;
+	{
+		declare x := 3;
+		out O;
+	}
+	y := 6 / (5 * 3) + (3 - (2 + 1));
+	label OPTION;
+	goto OPTION;
+}
