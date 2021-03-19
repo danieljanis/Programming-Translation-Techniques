@@ -1,6 +1,0 @@
-declare x := 5 ;
-{
-  in x ;
-  iffy [ x < 0 ] then
-    out x ; ;
-}

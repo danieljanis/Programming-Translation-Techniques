@@ -1,6 +1,0 @@
-declare x := 1 ;
-declare y := 2 ;
-{
-  in x ;
-  out x + 2 / ( 2 - y ) ;
-}
