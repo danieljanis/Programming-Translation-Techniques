@@ -6,7 +6,7 @@ CS 4280 - Compilers course at UMSL
 
 
 #### Topics:
-> This course will be organized around topics relevant to program translation and building a working compiler as a semester project. Overall, the following topics will be covered, with notes distributed to everyone. 
+> This course will be organized around topics relevant to program translation and building a working compiler as a semester project. Basically, every project builds to a final project which will translate an example "higher level language" into simple assembly language, using the given virtual machine for execution. The order of topics presented was as follows:
 > - Programming standards: source and architecture
 > - Introduction to languages
 > - Translation models
