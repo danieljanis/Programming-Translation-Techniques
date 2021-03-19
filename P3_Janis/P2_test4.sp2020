@@ -1,0 +1,6 @@
+declare x := 1 ;
+declare z := 4 ;
+{
+  out y;
+  out z;
+}
